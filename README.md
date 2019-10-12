@@ -1,2 +1,1 @@
-# how-to
-how-to
+# Anotações diversas
